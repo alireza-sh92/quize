@@ -1,6 +1,6 @@
 package com.example.quize.datamodel
 
-data class UserItem(
+data class UsersListItem(
     val _id: String,
     val firstName: String,
     val lastName: String,
